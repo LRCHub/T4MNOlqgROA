@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "こちら、幸福安心委員会です。",
+  "base_artist": "t.Komine（うたたP）",
+  "createdAt": "2026-02-15T12:20:12.789211Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "こちら,幸福安心委員会です。",
+      "artist": "うたたP",
+      "has_synced": false,
+      "path": "select/01_こちら,幸福安心委員会です。_うたたP.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "こちら、幸福安心委員会です。 feat.un:c",
+      "artist": "うたたP",
+      "has_synced": false,
+      "path": "select/02_こちら、幸福安心委員会です。_feat.un_c_うたたP.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "こちら、幸福安心委員会です。",
+      "artist": "うたたP",
+      "has_synced": false,
+      "path": "select/03_こちら、幸福安心委員会です。_うたたP.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "こちら、幸福安心委員会です。",
+      "artist": "うたたP feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/04_こちら、幸福安心委員会です。_うたたP_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "こちら、幸福安心委員会です。",
+      "artist": "UtataP",
+      "has_synced": true,
+      "path": "select/05_こちら、幸福安心委員会です。_UtataP.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "こちら、幸福安心委員会です。",
+      "artist": "UtataP",
+      "has_synced": false,
+      "path": "select/06_こちら、幸福安心委員会です。_UtataP.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "こちら,幸福安心委員会です。",
+      "artist": "うたたP",
+      "has_synced": false,
+      "path": "select/07_こちら,幸福安心委員会です。_うたたP.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "こちら,幸福安心委員会です。",
+      "artist": "UtataP",
+      "has_synced": false,
+      "path": "select/08_こちら,幸福安心委員会です。_UtataP.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "こちら、幸福安心委員会です。～うるおぼえで歌ってみた～",
+      "artist": "ぐるたみん",
+      "has_synced": true,
+      "path": "select/09_こちら、幸福安心委員会です。~うるおぼえで歌ってみた~_ぐるたみん.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "こちら、幸福安心委員会です。",
+      "artist": "あう",
+      "has_synced": false,
+      "path": "select/10_こちら、幸福安心委員会です。_あう.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "こちら、幸福安心委員会です。 (フリーダムVer.)",
+      "artist": "__(アンダーバー)",
+      "has_synced": false,
+      "path": "select/11_こちら、幸福安心委員会です。_(フリーダムVer.)_(アンダーバー).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "こちら、幸福安心委員会です。",
+      "artist": "96猫",
+      "has_synced": false,
+      "path": "select/12_こちら、幸福安心委員会です。_96猫.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "こちら、幸福安心委員会です。",
+      "artist": "うたたP Feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_こちら、幸福安心委員会です。_うたたP_Feat._初音ミク.txt"
+    }
+  ]
+}
